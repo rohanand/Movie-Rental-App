@@ -39,4 +39,14 @@ Using the API call on postman :
   -> All my files/codes are unit and integration tested.
        -> unit tested on 'jest' framework
        -> Integration tested on 'supertest'
+  
+  - > For users registration :
+        link for api call on postman : https://stormy-journey-77504.herokuapp.com/api/users
+        
+   -> use the JSON web token generated to see the all users : https://stormy-journey-77504.herokuapp.com/api/users/me
+        
+   -> For CRUD operations on genre : https://stormy-journey-77504.herokuapp.com/api/genres
+   
+   -> For CRUD operations on movies : https://stormy-journey-77504.herokuapp.com/api/movies
+   
        
