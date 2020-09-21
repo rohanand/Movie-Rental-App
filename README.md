@@ -49,4 +49,11 @@ Using the API call on postman :
    
    -> For CRUD operations on movies : https://stormy-journey-77504.herokuapp.com/api/movies
    
+   -> For customers for movies : https://stormy-journey-77504.herokuapp.com/api/customers
+   
+   -> For rentals that take post request with customerId and movieId to get the information about customer , movie , date and rental fee
+   
+        https://stormy-journey-77504.herokuapp.com/api/rentals
+      
+   
        
